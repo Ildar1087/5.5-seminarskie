@@ -1,0 +1,15 @@
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz37\bin\Debug\net6.0\dz37.exe
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz37\bin\Debug\net6.0\dz37.deps.json
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz37\bin\Debug\net6.0\dz37.runtimeconfig.json
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz37\bin\Debug\net6.0\dz37.dll
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz37\bin\Debug\net6.0\dz37.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz37\obj\Debug\net6.0\dz37.csproj.AssemblyReference.cache
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz37\obj\Debug\net6.0\dz37.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz37\obj\Debug\net6.0\dz37.AssemblyInfoInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz37\obj\Debug\net6.0\dz37.AssemblyInfo.cs
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz37\obj\Debug\net6.0\dz37.csproj.CoreCompileInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz37\obj\Debug\net6.0\dz37.dll
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz37\obj\Debug\net6.0\refint\dz37.dll
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz37\obj\Debug\net6.0\dz37.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz37\obj\Debug\net6.0\dz37.genruntimeconfig.cache
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz37\obj\Debug\net6.0\ref\dz37.dll
