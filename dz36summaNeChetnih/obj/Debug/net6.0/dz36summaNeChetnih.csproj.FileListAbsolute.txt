@@ -1,0 +1,15 @@
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz36summaNeChetnih\obj\Debug\net6.0\dz36summaNeChetnih.csproj.AssemblyReference.cache
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz36summaNeChetnih\obj\Debug\net6.0\dz36summaNeChetnih.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz36summaNeChetnih\obj\Debug\net6.0\dz36summaNeChetnih.AssemblyInfoInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz36summaNeChetnih\obj\Debug\net6.0\dz36summaNeChetnih.AssemblyInfo.cs
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz36summaNeChetnih\obj\Debug\net6.0\dz36summaNeChetnih.csproj.CoreCompileInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz36summaNeChetnih\bin\Debug\net6.0\dz36summaNeChetnih.exe
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz36summaNeChetnih\bin\Debug\net6.0\dz36summaNeChetnih.deps.json
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz36summaNeChetnih\bin\Debug\net6.0\dz36summaNeChetnih.runtimeconfig.json
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz36summaNeChetnih\bin\Debug\net6.0\dz36summaNeChetnih.dll
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz36summaNeChetnih\bin\Debug\net6.0\dz36summaNeChetnih.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz36summaNeChetnih\obj\Debug\net6.0\dz36summaNeChetnih.dll
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz36summaNeChetnih\obj\Debug\net6.0\refint\dz36summaNeChetnih.dll
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz36summaNeChetnih\obj\Debug\net6.0\dz36summaNeChetnih.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz36summaNeChetnih\obj\Debug\net6.0\dz36summaNeChetnih.genruntimeconfig.cache
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\dz36summaNeChetnih\obj\Debug\net6.0\ref\dz36summaNeChetnih.dll
