@@ -1,0 +1,15 @@
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\vtoroi primer\bin\Debug\net6.0\vtoroi primer.exe
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\vtoroi primer\bin\Debug\net6.0\vtoroi primer.deps.json
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\vtoroi primer\bin\Debug\net6.0\vtoroi primer.runtimeconfig.json
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\vtoroi primer\bin\Debug\net6.0\vtoroi primer.dll
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\vtoroi primer\bin\Debug\net6.0\vtoroi primer.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\vtoroi primer\obj\Debug\net6.0\vtoroi primer.csproj.AssemblyReference.cache
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\vtoroi primer\obj\Debug\net6.0\vtoroi primer.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\vtoroi primer\obj\Debug\net6.0\vtoroi primer.AssemblyInfoInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\vtoroi primer\obj\Debug\net6.0\vtoroi primer.AssemblyInfo.cs
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\vtoroi primer\obj\Debug\net6.0\vtoroi primer.csproj.CoreCompileInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\vtoroi primer\obj\Debug\net6.0\vtoroi primer.dll
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\vtoroi primer\obj\Debug\net6.0\refint\vtoroi primer.dll
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\vtoroi primer\obj\Debug\net6.0\vtoroi primer.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\vtoroi primer\obj\Debug\net6.0\vtoroi primer.genruntimeconfig.cache
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\vtoroi primer\obj\Debug\net6.0\ref\vtoroi primer.dll
