@@ -1,0 +1,15 @@
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\pervii primer\bin\Debug\net6.0\pervii primer.exe
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\pervii primer\bin\Debug\net6.0\pervii primer.deps.json
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\pervii primer\bin\Debug\net6.0\pervii primer.runtimeconfig.json
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\pervii primer\bin\Debug\net6.0\pervii primer.dll
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\pervii primer\bin\Debug\net6.0\pervii primer.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\pervii primer\obj\Debug\net6.0\pervii primer.csproj.AssemblyReference.cache
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\pervii primer\obj\Debug\net6.0\pervii primer.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\pervii primer\obj\Debug\net6.0\pervii primer.AssemblyInfoInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\pervii primer\obj\Debug\net6.0\pervii primer.AssemblyInfo.cs
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\pervii primer\obj\Debug\net6.0\pervii primer.csproj.CoreCompileInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\pervii primer\obj\Debug\net6.0\pervii primer.dll
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\pervii primer\obj\Debug\net6.0\refint\pervii primer.dll
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\pervii primer\obj\Debug\net6.0\pervii primer.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\pervii primer\obj\Debug\net6.0\pervii primer.genruntimeconfig.cache
+E:\учёба GEEK BRAINS\программиров. на С#\5.5 семинарское\pervii primer\obj\Debug\net6.0\ref\pervii primer.dll
